@@ -1,0 +1,194 @@
+body {
+  background-color: #f0f2f5;
+
+
+
+}
+
+.index {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 10%;
+
+
+
+
+
+
+
+}
+
+.form {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: white;
+  padding: 25px;
+
+
+}
+
+.a {
+
+  border: 1px solid #dddfe2;
+  margin-bottom: 5%;
+  width: 330px;
+  margin: 3%;
+  border-radius: 6px;
+  font-size: 18px;
+  padding: 12px
+}
+
+
+
+.b {
+  border: 1px solid #dddfe2;
+
+  margin-bottom: 5%;
+  width: 330px;
+  margin: 3%;
+  border-radius: 6px;
+  font-size: 18px;
+  padding: 12px
+}
+
+.c {
+
+  margin-bottom: 5%;
+  background-color: #1877f2;
+  border: none;
+  border-radius: 6px;
+  font-size: 21px;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 332px;
+  margin: 5%;
+  color: #fff;
+
+}
+
+.d {
+
+
+  background-color: #42b72a;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 18px;
+  line-height: 48px;
+  padding: 0 16px;
+
+}
+
+.e {
+
+  font-size: 48px;
+
+  margin-top: 20%;
+
+  color: #1c1e21;
+  direction: rtl;
+  line-height: 1.34;
+  
+  font-family: inherit;
+  border: 0;
+  height: 106px;
+  
+
+
+
+
+}
+
+
+
+.ss{   
+       direction: rtl;
+  margin: 0;
+  display: inline-block;
+  letter-spacing: normal;
+  text-rendering: optimizelegibility;
+  color: #1c1e21;
+  padding: 0 0 20px;
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  font-size: 29px;
+  font-weight: normal;
+  line-height: 32px;
+  width: 500px;
+}
+
+.pas a {
+
+  text-decoration: none;
+  color: #1877f2;
+  font-size: 15px;
+  font-weight: 500;
+  direction: rtl;
+  line-height: 1.34;
+}
+
+.ww{
+
+  direction: rtl;
+  line-height: 1.34;
+  margin-top: 28px;
+  text-align: center;
+  border-top: none;
+  color: #1c1e21;
+  font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  padding-top: 0;
+}
+
+
+
+
+@media only screen and  (max-width: 576px) {
+  .index {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  
+  
+  }
+
+}
+
+@media only screen and (max-width: 412px) {
+  .index {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  
+  
+  }
+  .omar{
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 300px;
+
+  }
+  .ss{font-size: 20px;
+    text-align: center;
+  
+  
+  }
+  
+  
+  }
+
+
+
+
+
+
+
+  
+
